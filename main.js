@@ -157,6 +157,6 @@ console.log(typeof salary2 );
 console.log(typeof salary3 );
 
 
-/// ___________________التاسك الاضافي________________
+
 
 
