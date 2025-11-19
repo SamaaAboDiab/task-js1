@@ -155,8 +155,3 @@ console.log(typeof avgSalary3 );
 console.log(typeof salary1 );
 console.log(typeof salary2 );
 console.log(typeof salary3 );
-
-
-
-
-
